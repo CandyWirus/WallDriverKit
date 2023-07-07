@@ -1,11 +1,11 @@
---Taxi Simulator Future Wall Driver Kit version %s
+--Wall Driver Workshop version 1.0
 --© 2023 Taxi Simulator Future. All rights reserved
---THE TAXI SIMULATOR FUTURE WALL DRIVER KIT IS PROPRIETARY SOFTWARE!!!
+--WALL DRIVER WORKSHOP IS PROPRIETARY SOFTWARE!!!
 
 --[[
 	End User License Agreement:
 		Definitions:
-			"Kit": the Taxi Simulator Future Wall Driver Kit, and all of its parts, or any of its parts
+			"Kit": Wall Driver Workshop, and all of its parts, or any of its parts
 			"Game": any piece of software that uses the Kit, and all of its parts, or any of its parts
 			"Player": any person or persons interacting with a Game
 			"Currency": any real currency, or any virtual currency that can be exchanged for or bought with real currency in any way
