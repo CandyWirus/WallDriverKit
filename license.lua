@@ -25,6 +25,6 @@
 		The Kit comes with absolutely no warranty whatsoever
 --]]
 
---To agree to the End User License Agreement, change the `eula` variable to `true`
+--To agree to the End User License Agreement, change the `eula` variable to `true`, and then close the script
 local eula = false
 return eula
