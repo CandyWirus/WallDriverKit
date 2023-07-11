@@ -11,7 +11,7 @@
 			"Currency": any real currency, or any virtual currency that can be exchanged for or bought with real currency in any way
 			"Profit": any acquisition of Currency
 			"Credits": any attribution by the Kit to any of its authors or affiliations
-		By using the Kit, you agree that:
+		By downloading or using the Kit, you agree that:
 			Any Game making use of the Kit will be accessible to any person or persons, without the use of any Currency, and there will be no method to access the Game using any Currency
 			There will be no Profit made in any Game making use of the Kit, unless the Profit meets the following criteria:
 				The Profit is uncontrollable (e.g. Roblox Premium Payouts)
@@ -25,6 +25,6 @@
 		The Kit comes with absolutely no warranty whatsoever
 --]]
 
---To agree to the End User License Agreement, change the `eula` variable to `true`, and then close the script
+--To agree to the End User License Agreement, change the `eula` variable to `true`, and then close the script.
 local eula = false
 return eula
